@@ -27,7 +27,7 @@ public class CalculosTest {
         System.out.println("sumarSerie probado el 2 al 4");
         int x = 2;
         int y = 4;
-        int expResult = 10;
+        int expResult = 9;
         int result = instance.sumarSerie(x, y);
         assertEquals(expResult, result);
     }
