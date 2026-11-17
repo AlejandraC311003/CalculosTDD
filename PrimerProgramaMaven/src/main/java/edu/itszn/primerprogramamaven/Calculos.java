@@ -22,7 +22,6 @@ public class Calculos {
         }
         return suma;
     }
-Esto es un errro
     /**
      * *
      * Calcula el valor absoluto de un numero
